@@ -1,0 +1,5 @@
+{
+  "name": "Meteor Impact Simulator",
+  "description": "A visually stunning and scientifically-grounded web application that simulates the catastrophic effects of a meteor impact on Earth, using realistic physics calculations and AI-generated narratives from the Gemini API.",
+  "requestFramePermissions": []
+}
